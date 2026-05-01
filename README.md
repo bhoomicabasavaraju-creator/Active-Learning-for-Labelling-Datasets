@@ -1,4 +1,4 @@
-# 🧠 Active Learning Methods for Labeling Datasets
+ 🧠 Active Learning Methods for Labeling Datasets
 
 This repository contains the implementation of **Active Learning** techniques that help minimize manual labeling effort while achieving high model accuracy. The project applies **Least Confidence**, **Margin Sampling**, and **Entropy Sampling** strategies on popular datasets such as **CIFAR-10**, **EuroSAT**, and **Fashion MNIST**.
 
